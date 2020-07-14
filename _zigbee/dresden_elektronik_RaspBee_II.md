@@ -11,6 +11,7 @@ mlink: https://phoscon.de/en/raspbee2/
 link: https://www.amazon.de/dp/B084MK8F5M
 link2: https://www.amazon.co.uk/dp/B084MK8F5M
 link3: https://www.reichelt.com/de/en/zigbee-gateway-raspbee-ii-raspbee-ii-p271570.html
+link4: https://www.amazon.com/Phoscon-RaspBee-II/dp/B084MK8F5M
 ---
 Compatible with following Home Automation solutions:
 - [Home Assistant](https://www.home-assistant.io/components/deconz/)
